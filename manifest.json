@@ -1,0 +1,10 @@
+{
+  "name": "Yousef Portfolio",
+  "short_name": "Yousef",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080a12",
+  "theme_color": "#080a12",
+  "description": "Yousef's portfolio — software developer and Unity game developer.",
+  "icons": []
+}
